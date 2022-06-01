@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-id="ext" group-title="Channels",A+
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
