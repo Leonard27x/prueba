@@ -6,6 +6,5 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",A+
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=C8qSKXqCp7pXtUpnYXNI-A&expires=1654129025&ip=190.129.164.23
