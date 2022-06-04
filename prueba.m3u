@@ -13,3 +13,6 @@ https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQocElT4_8e9vbJlJA
 http://ss1.mxl-apps.io:2052/iptv_data/app/script/tv/daa788c7bbc5d9df548f7c7d8bb000658a6d2bcf/fa351e11a37a114ec2c00e75cd124185b639d208/100705_19.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MXTV",Películas Marvel
 http://ss1.mxl-apps.io:2052/iptv_data/app/script/tv/daa788c7bbc5d9df548f7c7d8bb000658a6d2bcf/a221d4e0207e55e1ff077d6a5ddb77d2a3ada6b4/100650_19.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="DXTV",Spider-Man No way home
+https://objectstorage.sa-santiago-1.oraclecloud.com/n/axlkdjzzwlsr/b/videos/o/VID_20220121_195954_407.mp4
