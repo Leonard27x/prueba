@@ -21,5 +21,5 @@ http://192.119.9.194:25461/live/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222XA
 #EXTINF:-1 tvg-id="ext" group-title="TV Boliviana",Red Uno
 http://www.channel.tevemi.com:1935/RedUno/RedUno/chunklist_w989471233.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="DXTV",Los tipos malos
-https://s23.upstreamcdn.co/hls/w47rykgldfb5x2nroyxkqqnyj4dyhrgbfopetvjesk4eadpgqjgs6uacudya/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="DXTV",Los Simpson retro
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
