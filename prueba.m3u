@@ -26,3 +26,5 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="DXTV",Dr. Strange - Universo de la locura
 https://www831.ff-02.com/token=laocSjAMYvsB59HXwgq-YA/1654651905/2800:cd0::/97/a/ff/58e6a286c396730f8d643465c8e7effa-720p.mp4
+#EXTINF:-1 tvg-id="ext" group-title="DXTV",El señor de los anillos, la comunidad del anillo
+https://126.cloudvideo.tv/hls/,mfqjwjh2vho6sr7qw5wu3pcp6ze7novihnznbav6iw5kz3d7gldcthtfj53q,.urlset/master.m3u8
