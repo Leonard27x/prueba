@@ -28,3 +28,6 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://www846.ff-02.com/token=QQae4Hy8Tv3EWvlIfUoanA/1655710389/2800:cd0::/10/c/71/1e29e64d5460e2deb3c6d042a730971c-1080p.mp4
 #EXTINF:-1 tvg-id="ext" group-title="DXTV",El señor de los anillos - Las 2 torres 
 https://s18.upstreamcdn.co/hls/w47rzebhazbnx2nro2t2ma5nk37zyqippomkzeoxziaekh4h4xpi47orvgnq/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="DXTV",El señor de los anillos - Las 2 torres español 
+https://www893.ff-02.com/token=apdKW_D76JZYg_nANuSHNA/1656219929/2800:cd0::/14/5/60/ac9fdb441a6b56fd2189edc63df2a605-480p.mp4
